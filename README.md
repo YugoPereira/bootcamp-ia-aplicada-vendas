@@ -18,23 +18,22 @@ O foco deste portfólio é demonstrar a aplicação prática de **Modelos de Lin
 
 | Módulo/Desafio | Tipo de Atividade | Status | Descrição |
 | :--- | :---: | :---: | :--- |
-| **1. Simplificando Tarefas e Ganhando Foco** | `Desafio Criativo` | ✅ Concluído | Roteirização e gestão de tempo da equipe de vendas em campo (System Prompt). |
-| **2. Treinando uma IA de Aprendizagem** | `Projeto Prático` | ✅ Concluído | Estruturação de base de conhecimento B2B e extração de insights via RAG no NotebookLM. |
-| **3. Acelerando Produtividade com IA** | `Desafio Criativo` | ✅ Concluído | Construção de agente focado em metas de carreira, timeblocking e gestão de rotina técnica. |
-| **4. O Poder da Argumentação Comercial** | `Desafio Criativo` | ⏳ Pendente | Prompt Engineering focado em scripts de persuasão e contorno de objeções. |
-| **5. Copiloto de Vendas com IA** | `Projeto Final` | ⏳ Pendente | Criação do zero de um assistente especialista para atendimento de contas Heineken. |
+| **[1. Simplificando Tarefas e Ganhando Foco](#desafio-1)** | `Desafio Criativo` | ✅ Concluído | Roteirização e gestão de tempo da equipe de vendas em campo (System Prompt). |
+| **[2. Treinando uma IA de Aprendizagem](#desafio-2)** | `Projeto Prático` | [✅ Concluído](./Modulo_02_NotebookLM) | Estruturação de base de conhecimento B2B e extração de insights via RAG no NotebookLM. |
+| **[3. Acelerando Produtividade com IA](#desafio-3)** | `Desafio Criativo` | [✅ Concluído](./Modulo_03_Produtividade_Pessoal) | Construção de agente focado em metas de carreira, timeblocking e gestão de rotina técnica. |
+| **[4. O Poder da Argumentação Comercial](#desafio-4)** | `Desafio Criativo` | ⏳ Pendente | Prompt Engineering focado em scripts de persuasão e contorno de objeções. |
+| **[5. Copiloto de Vendas com IA](#desafio-5)** | `Projeto Final` | ⏳ Pendente | Criação do zero de um assistente especialista para atendimento de contas Heineken. |
 
 ---
 
 ## 🛠️ Entregas Detalhadas
 
+<a id="desafio-1"></a>
 ### 📦 1. Simplificando Tarefas e Ganhando Foco com IA no Dia a Dia
 **Objetivo:** Transformar dados não estruturados da rotina de vendas em um cronograma operacional de alta eficiência.  
 **Arquitetura:** `Persona` > `Context Injection` > `Constraints` > `Output Format`.
 
-<details>
-<summary><b>👁️ Visualizar o System Prompt da Entrega 01</b></summary>
-
+**👁️ Visualizar o System Prompt da Entrega 01:**
 ```text
 [SYSTEM ROLE]
 Atue como um Especialista em Produtividade e Gestão Comercial.
