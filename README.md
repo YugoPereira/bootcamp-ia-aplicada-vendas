@@ -6,44 +6,34 @@
   <img src="https://img.shields.io/badge/Tech-Engenharia_de_Prompts_&_LLMs-000000?style=for-the-badge&logo=openai" alt="Tech"/>
 </p>
 
-<br>
-
 ## 🎯 Visão Geral do Projeto
+
 Repositório central para documentação e versionamento das soluções de Inteligência Artificial desenvolvidas durante o Bootcamp **Inteligência Artificial Aplicada a Vendas (Heineken/DIO)**. 
 
 O foco deste portfólio é demonstrar a aplicação prática de **Modelos de Linguagem de Grande Escala (LLMs)** e **Sistemas RAG (Retrieval-Augmented Generation via NotebookLM)** para otimização de rotinas comerciais, análise de dados e estruturação de assistentes virtuais (Copilotos) voltados para o ciclo de vendas B2B e atendimento ao cliente.
 
-<br>
-
 ---
-
-<br>
 
 ## 📂 Trilha de Desafios e Entregáveis
 
 | Módulo/Desafio | Tipo de Atividade | Status | Descrição |
 | :--- | :---: | :---: | :--- |
 | **1. Simplificando Tarefas e Ganhando Foco** | `Desafio Criativo` | ✅ Concluído | Roteirização e gestão de tempo da equipe de vendas em campo (System Prompt). |
-| **2. Treinando uma IA de Aprendizagem** | `Projeto Prático` | ⏳ Pendente | Estruturação de base de conhecimento e extração de dados analíticos via RAG. |
-| **3. Acelerando Produtividade com IA** | `Desafio Criativo` | ⏳ Pendente | Construção de agente focado em metas e gestão de rotina do analista/vendedor. |
+| **2. Treinando uma IA de Aprendizagem** | `Projeto Prático` | ✅ Concluído | Estruturação de base de conhecimento B2B e extração de insights via RAG no NotebookLM. |
+| **3. Acelerando Produtividade com IA** | `Desafio Criativo` | ✅ Concluído | Construção de agente focado em metas de carreira, timeblocking e gestão de rotina técnica. |
 | **4. O Poder da Argumentação Comercial** | `Desafio Criativo` | ⏳ Pendente | Prompt Engineering focado em scripts de persuasão e contorno de objeções. |
 | **5. Copiloto de Vendas com IA** | `Projeto Final` | ⏳ Pendente | Criação do zero de um assistente especialista para atendimento de contas Heineken. |
 
-<br>
-
 ---
-
-<br>
 
 ## 🛠️ Entregas Detalhadas
 
 ### 📦 1. Simplificando Tarefas e Ganhando Foco com IA no Dia a Dia
-**Objetivo:** Transformar dados não estruturados da rotina de vendas em um cronograma operacional de alta eficiência. <br>
+**Objetivo:** Transformar dados não estruturados da rotina de vendas em um cronograma operacional de alta eficiência.  
 **Arquitetura:** `Persona` > `Context Injection` > `Constraints` > `Output Format`.
 
 <details>
-<summary><b>👁️ Visualizar o System Prompt (Concluído)</b></summary>
-<br>
+<summary><b>👁️ Visualizar o System Prompt da Entrega 01</b></summary>
 
 ```text
 [SYSTEM ROLE]
